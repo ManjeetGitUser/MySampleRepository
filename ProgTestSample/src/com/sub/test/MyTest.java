@@ -11,6 +11,8 @@ public class MyTest {
     OddEvenProg find=new OddEvenProg();
     System.out.println(find.findOddEven(9));
     
+    NewBranchFun fun=new NewBranchFun();
+    System.out.println(fun.fun(123));
 
     
 	}
