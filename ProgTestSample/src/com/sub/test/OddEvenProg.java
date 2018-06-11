@@ -7,7 +7,7 @@ public class OddEvenProg {
 		
 		
 		if(num%2==0)
-			return "Even";
+			return "Even"+"hi";
 		else
 			return "odd";
 	}
