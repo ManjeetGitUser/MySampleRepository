@@ -11,8 +11,7 @@ public class MyTest {
     OddEvenProg find=new OddEvenProg();
     System.out.println(find.findOddEven(9));
     
-    FunClass fun=new FunClass();
-    System.out.println(fun.pnNums(-23));
+
     
 	}
 
